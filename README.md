@@ -17,13 +17,25 @@ Project to generate random number without use the Math.random() function.
 
 - Node.js
 
+- MochaJs
+
+- Chai
+
 To execute the POC:
 
 1. Change to 'coin-flip' directory.
 
 `cd coin-flip/`
 
-2. Run 'app.js' file. 
+2. Install dependencies
+
+`npm install `
+
+3. Execute test
+
+`npm test` 
+
+4. Run 'app.js' file. 
 
 `node app.js`
 
