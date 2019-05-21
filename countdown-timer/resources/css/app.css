@@ -1,0 +1,25 @@
+#countdown-timer{
+	text-align: center;
+}
+
+.time {
+	float: left;
+	margin-right: 1em;
+	border: 1px solid #c2c4c6;
+	padding: 25px;
+	position: relative;
+	left: 30%;
+}
+
+.time span {
+	display: block;
+	width: 100%;
+}
+
+.time .value{
+	font-size: 2em;
+}
+
+.time span.title {
+	color: #8a8c8e;
+}
