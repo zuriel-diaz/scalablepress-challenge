@@ -20,9 +20,11 @@ Project to generate random number without use the Math.random() function.
 To execute the POC:
 
 1. Change to 'coin-flip' directory.
+
 `cd coin-flip/`
 
 2. Run 'app.js' file. 
+
 `node app.js`
 
 But to be honest we can implement the same code in JS vanilla to avoid the dependencies or frameworks dependencies for this version.
